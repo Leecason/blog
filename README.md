@@ -1,4 +1,7 @@
 # leran-notes
+## 规范
+  - [alloyteam CodeGuide](http://alloyteam.github.io/CodeGuide/)
+
 ## JavaScript
   - [使用对象](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Working_with_Objects)
   - [内存管理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Memory_Management)
