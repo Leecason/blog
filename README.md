@@ -5,6 +5,9 @@
 ## JavaScript
   - [使用对象](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Working_with_Objects)
   - [内存管理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Memory_Management)
+  - 垃圾回收
+    - [JavaScript 垃圾回收](https://segmentfault.com/a/1190000007616791)
+    - [JavaScript 内存泄漏教程](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
 
 ## Vue
   - [Vue.js的实用技巧（一）](https://zhuanlan.zhihu.com/p/25589193)
