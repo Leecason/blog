@@ -12,6 +12,7 @@
 ## Vue
   - [Vue.js的实用技巧（一）](https://zhuanlan.zhihu.com/p/25589193)
   - [Vue.js的实用技巧（二）](https://zhuanlan.zhihu.com/p/25623356)
+  - [Vue.js 组件编码规范](https://pablohpsilva.github.io/vuejs-component-style-guide/#/chinese)
 
 ## CSS
   - [CSS按钮的 10 个代码片段](https://zhuanlan.zhihu.com/p/25597059)
