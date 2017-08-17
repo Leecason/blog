@@ -22,3 +22,6 @@
 
 ## DEMO
   - [60行代码俄罗斯方块](http://bbs.csdn.net/topics/390427122)
+
+## 文章
+  - [js获取虚拟键盘高度](https://segmentfault.com/a/1190000010693229)
