@@ -3,9 +3,12 @@
   - [Linux 命令行](http://billie66.github.io/TLCL/index.html)
   - [图解Git](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
   - [Learn Regex](https://github.com/zeeshanu/learn-regex)
+  - [SED 简明教程](https://coolshell.cn/articles/9104.html)
+  - [webpack-demos](https://github.com/ruanyf/webpack-demos)
 
 ## 规范
   - [alloyteam CodeGuide](http://alloyteam.github.io/CodeGuide/)
+  - [word list](https://design.firefox.com/photon/copy/word-list.html)
 
 ## JavaScript
   - [使用对象](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Working_with_Objects)
@@ -13,35 +16,31 @@
   - 垃圾回收
     - [JavaScript 垃圾回收](https://segmentfault.com/a/1190000007616791)
     - [JavaScript 内存泄漏教程](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
+  - [ECMAScript 6 入门](http://es6.ruanyifeng.com/#README)
+  - [JavaScript Object Explorer](https://sdras.github.io/object-explorer/)
+  - [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
 
 ## Vue
   - [Vue.js的实用技巧（一）](https://zhuanlan.zhihu.com/p/25589193)
   - [Vue.js的实用技巧（二）](https://zhuanlan.zhihu.com/p/25623356)
   - [Vue.js 组件编码规范](https://pablohpsilva.github.io/vuejs-component-style-guide/#/chinese)
   - [Vue API cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
+  - [使用 webpack 来构建 vue 项目](http://hanekaoru.com/%E4%BD%BF%E7%94%A8-webpack-%E6%9D%A5%E6%9E%84%E5%BB%BA-vue-%E9%A1%B9%E7%9B%AE/)
+  - [基于vue-cli快速构建](https://www.jianshu.com/p/2769efeaa10a)
+  - [Vue.js写一个SPA登录页面的过程](https://www.jianshu.com/p/eff145fb815b)
+  - [简易版Vue-理解原理](https://github.com/balancelove/SimpleVue)
+  - [Vue 源码注释版 及 Vue 源码详细解析](https://github.com/Ma63d/vue-analysis)
 
 ## CSS
   - [CSS按钮的 10 个代码片段](https://zhuanlan.zhihu.com/p/25597059)
   - [Safe CSS Defaults](http://nimbupani.com/safe-css-defaults.html)
+  - [CSS Naming Conventions that Will Save You Hours of Debugging](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
 
 ## 调试
   - [Chrome开发者工具系列](http://www.cnblogs.com/constantince/category/712675.html)
 
 ## DEMO
   - [60行代码俄罗斯方块](http://bbs.csdn.net/topics/390427122)
-  - [JesseLuo](https://github.com/luosijie)
-    - vm-markdown
-      - [github](https://github.com/luosijie/vm-markdown)
-      - [demo](https://luosijie.github.io/vm-markdown/)
-    - vue-manager
-      - [github](https://github.com/luosijie/vue-manager)
-      - [demo](https://luosijie.github.io/vue-manager/)
-    - vm-editor
-      - [github](https://github.com/luosijie/vm-editor)
-      - [demo](https://luosijie.github.io/vm-editor/)
-    - vue-resume
-      - [github](https://github.com/luosijie/vue-resume)
-      - [demo](https://luosijie.github.io/vue-resume/)
 
 ## 文章
   - [js获取虚拟键盘高度](https://segmentfault.com/a/1190000010693229)
