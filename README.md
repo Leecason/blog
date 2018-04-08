@@ -13,23 +13,24 @@
 ## JavaScript
   - [使用对象](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Working_with_Objects)
   - [内存管理](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Memory_Management)
-  - 垃圾回收
-    - [JavaScript 垃圾回收](https://segmentfault.com/a/1190000007616791)
-    - [JavaScript 内存泄漏教程](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
+  - [JavaScript 垃圾回收](https://segmentfault.com/a/1190000007616791)
+  - [JavaScript 内存泄漏教程](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
   - [ECMAScript 6 入门](http://es6.ruanyifeng.com/#README)
-  - [JavaScript Object Explorer](https://sdras.github.io/object-explorer/)
   - [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
+  - [理解事件循环一](https://github.com/ccforward/cc/issues/47)
+  - [理解事件循环二(macrotask和microtask)](https://github.com/ccforward/cc/issues/48)
 
 ## Vue
   - [Vue.js的实用技巧（一）](https://zhuanlan.zhihu.com/p/25589193)
   - [Vue.js的实用技巧（二）](https://zhuanlan.zhihu.com/p/25623356)
   - [Vue.js 组件编码规范](https://pablohpsilva.github.io/vuejs-component-style-guide/#/chinese)
-  - [Vue API cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
   - [使用 webpack 来构建 vue 项目](http://hanekaoru.com/%E4%BD%BF%E7%94%A8-webpack-%E6%9D%A5%E6%9E%84%E5%BB%BA-vue-%E9%A1%B9%E7%9B%AE/)
   - [基于vue-cli快速构建](https://www.jianshu.com/p/2769efeaa10a)
   - [Vue.js写一个SPA登录页面的过程](https://www.jianshu.com/p/eff145fb815b)
   - [简易版Vue-理解原理](https://github.com/balancelove/SimpleVue)
   - [Vue 源码注释版 及 Vue 源码详细解析](https://github.com/Ma63d/vue-analysis)
+  - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
+  - [全面解析Vue.nextTick实现原理](https://mp.weixin.qq.com/s/ZbF_4o8XrJb49_MU6y3iDQ)
 
 ## CSS
   - [CSS按钮的 10 个代码片段](https://zhuanlan.zhihu.com/p/25597059)
