@@ -1,4 +1,7 @@
 # Front-end-blog
+
+## [NOTE](https://github.com/Leecason/front-end-blog/blob/master/NOTE.md)
+
 ## 工具
   - [Linux 命令行](http://billie66.github.io/TLCL/index.html)
   - [图解Git](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
