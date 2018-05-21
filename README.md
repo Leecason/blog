@@ -54,3 +54,11 @@
   - [关于响应式的另一种思考](https://zhuanlan.zhihu.com/p/27258076)
   - [如何选择开源许可证](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
   - [聊聊 Git 「改变历史」](https://zhuanlan.zhihu.com/p/29497618)
+
+## 视频
+  - [MVVM实现原理](http://html5train.com/kecheng/detail_1553514)
+  - [es6公开课](http://html5train.com/kecheng/detail_1555861)
+  - [进阶webpack4.0](http://html5train.com/kecheng/detail_1567118)
+  - [virtualDOM&DOM Diff](http://html5train.com/kecheng/detail_1567138)
+  - [编写webpack](http://html5train.com/kecheng/detail_1567139)
+  - [双向绑定原理剖析](http://html5train.com/kecheng/detail_1553514)
