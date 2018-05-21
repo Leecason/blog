@@ -1,0 +1,16 @@
+# Front-end-note
+- ##Object
+  - defineProperty
+    - configurable
+    - enumerable
+    - writable
+  - hasOwnProperty
+  - propertyIsEnumerable
+  - keys
+  - getOwnPropertyNames
+  - getOwnPropertyDescriptors
+- ## Math
+  - floor
+  - ceil
+  - trunc
+  - round
