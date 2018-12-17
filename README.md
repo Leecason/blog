@@ -34,6 +34,8 @@
   - [Vue 源码注释版 及 Vue 源码详细解析](https://github.com/Ma63d/vue-analysis)
   - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
   - [全面解析Vue.nextTick实现原理](https://mp.weixin.qq.com/s/ZbF_4o8XrJb49_MU6y3iDQ)
+  - [Vue.js 技术揭秘 by 黄轶](https://ustbhuangyi.github.io/vue-analysis)
+  - [Vue技术内幕](http://hcysun.me/vue-design)
 
 ## CSS
   - [CSS按钮的 10 个代码片段](https://zhuanlan.zhihu.com/p/25597059)
