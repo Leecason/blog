@@ -22,6 +22,8 @@
   - [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
   - [理解事件循环一](https://github.com/ccforward/cc/issues/47)
   - [理解事件循环二(macrotask和microtask)](https://github.com/ccforward/cc/issues/48)
+  - [Promise A+ 规范](http://malcolmyu.github.io/malnote/2015/06/12/Promises-A-Plus/)
+  - [剖析Promise内部结构，一步一步实现一个完整的、能通过所有Test case的Promise类](https://github.com/xieranmaya/blog/issues/3)
 
 ## Vue
   - [Vue.js的实用技巧（一）](https://zhuanlan.zhihu.com/p/25589193)
