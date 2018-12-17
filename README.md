@@ -43,6 +43,7 @@
   - [CSS按钮的 10 个代码片段](https://zhuanlan.zhihu.com/p/25597059)
   - [Safe CSS Defaults](http://nimbupani.com/safe-css-defaults.html)
   - [CSS Naming Conventions that Will Save You Hours of Debugging](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
+  - [Sass: Mixin or Placeholder?](https://www.sitepoint.com/sass-mixin-placeholder/)
 
 ## 调试
   - [Chrome开发者工具系列](http://www.cnblogs.com/constantince/category/712675.html)
